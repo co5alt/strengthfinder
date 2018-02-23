@@ -1,9 +1,12 @@
+//Plain old vanilla Javascript
 
 //Variables
 
 var accordion = document.querySelector('.accordion');
 var items = accordion.querySelectorAll('li');
 var questions = accordion.querySelectorAll('.question');
+
+
 
 //Funtions
 
