@@ -1,3 +1,4 @@
+
 body {
   padding: 30px;
 }
@@ -60,4 +61,5 @@ ul {
 
 .accordion li.open .answer {
   max-height: 150px;
+>>>>>>> 925acdbc59236f55d84798a3b2ea974251aa68dd
 }

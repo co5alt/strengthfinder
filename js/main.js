@@ -1,3 +1,4 @@
+
 //Variables
 
 var accordion = document.querySelector('.accordion');
@@ -20,3 +21,4 @@ function toggleAccordion() {
 //Event Listeners
 
 questions.forEach(question => question.addEventListener('click', toggleAccordion));
+
